@@ -1,0 +1,15 @@
+.footer{
+  background-color: rgb(245, 242, 242);
+  padding: 20px;
+  bottom: 0;
+ 
+}
+
+#footer-pp{
+  font-size: 25px;
+  margin-top: .8em;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-fill-color: transparent;
+  -webkit-text-stroke-color: black;
+  
+}
