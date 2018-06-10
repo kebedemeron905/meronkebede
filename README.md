@@ -1,4 +1,4 @@
 # Hello!
 
-Here is a link to my portfolio site built with React:
+Link to my portfolio site:
 http://meronkebede.surge.sh/
