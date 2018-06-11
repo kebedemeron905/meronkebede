@@ -31,7 +31,7 @@ class Projects extends Component {
               <div className='icon-container'>
                 <h4 className='tools-used'>Tools Used: <span>Django</span></h4>
                 <i className='devicon-django-plain' />
-                <i class='devicon-python-plain' />
+                <i className='devicon-python-plain' />
               </div>
               <div className='project-link-container'>
                 <a href='https://github.com/kebedemeron905/Events' className='project-link' target='_blank' rel='noopener noreferrer'>View Code</a>
@@ -46,9 +46,9 @@ class Projects extends Component {
               <p className='project-description'><span className='app'>App:</span> A simple JavaScript flash card game that <br /> asks users to identify title of iconic artworks.</p>
               <div className='icon-container'>
                 <h4 className='tools-used'>Tools Used: <span>HTML, CSS, JavaScript</span></h4>
-                <i class='devicon-html5-plain' />
-                <i class='devicon-css3-plain' />
-                <i class='devicon-javascript-plain' />
+                <i className='devicon-html5-plain' />
+                <i className='devicon-css3-plain' />
+                <i className='devicon-javascript-plain' />
               </div>
               <div className='project-link-container'>
                 <a href='https://github.com/kebedemeron905/Project-One' className='project-link' target='_blank' rel='noopener noreferrer'>View Code</a>
